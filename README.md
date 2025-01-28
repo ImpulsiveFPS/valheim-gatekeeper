@@ -53,4 +53,9 @@ Contributions, bug reports, and feature requests are welcome! Feel free to open 
 ---
 
 ## License
-*(Add your preferred license here, e.g., MIT, Apache 2.0, etc.)*
+This project is licensed under the **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)**.  
+You are free to use, modify, and distribute the code, provided that any modifications are also released under the same license.
+
+---
+
+Happy hosting, and may your Valheim adventures thrive!

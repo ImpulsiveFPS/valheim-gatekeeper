@@ -18,7 +18,7 @@ Valheim Gatekeeper integrates with popular Valheim mods to provide powerful func
 - Displays detailed player statistics, including:
   - Total deaths
   - Total kills
-  - Completed achievements
+  - Completed achievements.
 - **Required Mod:** [Almanac](https://thunderstore.io/c/valheim/p/RustyMods/Almanac/)
 
 ### **Player Identification & Last Online**
@@ -44,6 +44,14 @@ Once set up, Valheim Gatekeeper streamlines player management on your server:
 - Enhances gameplay with VIP perks for wards and portals.
 
 Start managing your Valheim server with ease!
+
+---
+
+## Support
+If you enjoy using Valheim Gatekeeper and want to support its development, consider buying me a coffee!  
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?logo=ko-fi&style=flat-square)](https://ko-fi.com/reloaded)  
+
+You can also join our **[Discord server](https://discord.gg/6R7xxJeqtC)** to report issues, suggest features, or chat with the community!
 
 ---
 

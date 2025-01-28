@@ -153,4 +153,4 @@ Feel free to fork the repository and submit pull requests for bug fixes or featu
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 license
